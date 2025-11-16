@@ -1,0 +1,41 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Archives
+*.zip
+*.tar.gz
+*.tar
+
+# Local override for secrets
+application-local.properties
+.env
+
+# IDEs and OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# local secrets
+application-local.properties
+.env
+
+# Java / build
+target/
+*.class
+*.jar
+
+# archives
+*.zip
+
+# IDEs
+.idea/
+.vscode/
